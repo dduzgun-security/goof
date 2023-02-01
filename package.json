@@ -49,7 +49,7 @@
     "validator": "^13.5.2"
   },
   "devDependencies": {
-    "browserify": "^13.1.1",
+    "browserify": "^17.0.0",
     "nodemon": "^2.0.7",
     "snyk": "^1.244.0"
   },
